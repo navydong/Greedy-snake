@@ -21,3 +21,7 @@ This is a classic snake game built with React, designed to run in a web browser.
 ## Development
 
 This project was developed using [React](https://reactjs.org/).
+
+## Author
+
+Created by [navydong](https://github.com/navydong)
